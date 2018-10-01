@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Information security centric blog where you'll find CTF write-ups and other security related articles
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+You can find a list of InfoSec resources on my github: [Netsec Resources](https://github.com/towbes/netsecResources)
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[perpshell@gmail.com](mailto:perpshell@gmail.com)
